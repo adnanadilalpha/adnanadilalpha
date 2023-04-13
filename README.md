@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adnanadilalpha
+- 👀 I’m interested in Savy tech projects to push me beyond the limits.
+- 🌱 I’m currently learning Frontend development.
+- 💞️ I’m looking to collaborate on anything that feeds me new knowledge and experience.
+- 📫 How to reach me via linkedin https://www.linkedin.com/in/adnan-adil-syed/
